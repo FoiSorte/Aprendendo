@@ -1,1 +1,3 @@
-Exercicio de Flexbox, praticando e vendo funções.
+Aqui estarei fazendo upload de alguns tutoriais e escrevendo o seu objetivo.
+
+Exercicio de Flexbox, praticando e conhecendo as funções.
