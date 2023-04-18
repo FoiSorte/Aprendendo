@@ -1,3 +1,3 @@
-Aqui estarei fazendo upload de alguns tutoriais ou exercicios e até mesmo alguns projetos praticos que fiz e escrevendo o seu objetivo.
+Aqui estarei fazendo upload de alguns tutoriais ou exercicios e até mesmo alguns projetos praticos que fiz.
+É mais para salvar e não perder o meu material de aprendizado, obrigado.
 
-Exercicio de Flexbox, praticando e conhecendo as funções.
